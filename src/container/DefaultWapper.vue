@@ -45,7 +45,6 @@
                   <li>
                     <label>User Name: {{user && user['userName']}} </label>
                     <br/>
-                    <!--                            <label>Role : {userType === 'M' ? 'Maker' : 'Checker'} </label>-->
                   </li>
                   <hr style="margin: 0"/>
                   <li><a class='dropdown-item-profile'
